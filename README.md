@@ -1,7 +1,7 @@
 
 <h1 align="center">I'm Higor Seixas</h1>
 </span>
-<h3 align="center"> Junior Development Analyst .</h3>
+<h3 align="center"> Junior Development Analyst </h3>
 
 - 📫 How to reach me? **higor.c.seixas@gmail.com**
 
