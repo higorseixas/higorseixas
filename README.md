@@ -47,3 +47,6 @@ src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.sv
   <a href="https://github.com/higorseixas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorseixas&layout=compact&langs_count=7&theme=dark"/>
 </div>
+
+![Snake animation](https://github.com/higorseixas/higorseixas/blob/output/github-contribution-grid-snake.svg)
+
