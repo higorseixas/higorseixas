@@ -3,12 +3,14 @@
 </span>
 <h3 align="center"> Junior Full Stack Developer </h3>
 
-- 📫 How to reach me? **higor.c.seixas@gmail.com**
+<div align="center">
+<h3>✨ About:</h3>
+- 😁 I live in Brazil; </br>
+- 🎓 I'm graduating in Software Engineering;
+</div>
 
-- 🎮 Fun fact **The answer to life is 42**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center"> 📫 How to reach me?:</h3>
+<p align="center">
  <a href ="higor.c.seixas@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/higor-celm-seixas-27rj/" alt="Linkedin">
@@ -17,8 +19,9 @@
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 
 
-<h3 align="left">Languages and Tools:</h3>
-<div style="display: inline_block">
+<h3 align="center">💻🔧 Languages and Tools:</h3>
+ 
+<div align="center" style="display: inline_block">
   <img align="center" alt="Higor-ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" alt="Higor-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Higor-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
@@ -40,13 +43,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Higor-Figma" height="30" width="40" 
 src= "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-          
+</div>   
 
 
 <div align="center"><br>
   <a href="https://github.com/higorseixas">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=higorseixas&layout=compact&langs_count=7&theme=dark"/>
 </div>
-
-![Snake animation](https://github.com/higorseixas/higorseixas/blob/output/github-contribution-grid-snake.svg)
+ 
+<!-- ![Snake animation](https://github.com/higorseixas/higorseixas/blob/output/github-contribution-grid-snake.svg) -->
 
