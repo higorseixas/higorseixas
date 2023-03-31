@@ -1,4 +1,6 @@
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=higorseixas&label=Profile%20views&color=0e75b6&style=flat" alt="higorseixas" /> </p>
+
 <h1 align="center">I'm Higor Seixas</h1>
 </span>
 <h3 align="center"> Junior Full Stack Developer </h3>
